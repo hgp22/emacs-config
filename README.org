@@ -2,3 +2,8 @@
 
 This repo has the purpose of documenting my configuration files for emacs and
 increasing my knowledge in this powerful tool!
+
+* Reference
+I am doing my research from:
+- https://github.com/daviwil/emacs-from-scratch
+- https://orgmode.org/manual/
