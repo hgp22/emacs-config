@@ -1,0 +1,4 @@
+#+title: Emacs Config
+
+This repo has the purpose of documenting my configuration files for emacs and
+increasing my knowledge in this powerful tool!
