@@ -29,3 +29,6 @@
 (setq dashboard-center-content t
       dashboard-set-heading-icons t
       dashboard-set-file-icons t)
+
+;;Configuracao para Apresentacoes
+(require 'org-tree-slide)
